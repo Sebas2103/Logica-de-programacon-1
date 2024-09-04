@@ -5,3 +5,4 @@ print("El valor de la cantidad de personas es",valorEntrada*valorPersonas)
 
 
 
+7
