@@ -3,6 +3,3 @@ valorPersonas=int(input("Ingrese la cantidad de personas que entraron al cine ")
 valorEntrada=int(input("Ingrese el valor de una entrada "))
 print("El valor de la cantidad de personas es",valorEntrada*valorPersonas)
 
-
-
-7
