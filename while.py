@@ -6,9 +6,11 @@ numeroMayor=num1 if num1>num2 else num2
 numeroMenor=num1 if num1<num2 else num2 
 sumatoria=0
 
-while numeroMenor< numeroMayor:
+while numeroMenor<= numeroMayor:
     sumatoria+=numeroMenor
     numeroMenor+=1
 print(f""" La sumatoria de los numero es {sumatoria} """)
+
+
 
 
