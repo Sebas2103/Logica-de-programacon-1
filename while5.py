@@ -9,4 +9,4 @@ while opcion!="s":
     cont+=1
 
 print(f""" El promedio del peso de gimnastas es 
-      {acumulador/cont} """)
+      {acumulador/(cont-1)} """)
