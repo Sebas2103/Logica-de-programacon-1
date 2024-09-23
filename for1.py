@@ -4,7 +4,7 @@ n=int(input(""" Ingrese la cantidad de notas"""))
 acumulador=0
 
 for i in range(1,n+1):
-    nota=int(input("""Ingrese el primer numero  """))
+    nota=float(input("""Ingrese el primer numero  """))
     acumulador+=nota
 
 print(f""" El promedio de los numeros es {acumulador/n} """)
