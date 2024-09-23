@@ -6,3 +6,4 @@ print(""" Un para metro indica elnumero de veces que se repite comenzando desde 
 for i in range (1,5,2):
     print(i)
 print(""" tres  ´parametro indican el valor inicial,final y el incremento """)
+
