@@ -9,8 +9,9 @@
 #i=tasa deinteres
 def capital(tasa,periodo):
     F=800000*(1+tasa)*periodo
+    print(F)
     return F
-print(capital(0.02,5))
-print(capital(0.08,13))
+capital(0.02,5)
+capital(0.08,13)
 
 
